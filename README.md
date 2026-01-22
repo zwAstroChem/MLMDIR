@@ -146,10 +146,6 @@ The model is currently trained only on neutral PAHs and does not support charged
 If you use this code, please cite:
 'Computing Anharmonic Infrared Spectra of Polycyclic Aromatic Hydrocarbons Using Machine-Learning Molecular Dynamics', DOI: https://doi.org/10.1093/mnras/staf1156
 
-# Contact
- 
-For inquiries, you can contact Prof. Zhao Wang at zw[at]gxu.edu.cn.
-
 #License
 
 The code is licensed under the Apache License 2.0, allowing for free use, modification, and distribution, including for commercial purposes, while requiring proper attribution and inclusion of the original license.
